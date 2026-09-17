@@ -5,3 +5,6 @@ tags
 *.a
 *.o
 .*.swp
+
+compile_flags.txt
+# add this file to the clangd of MAC don't show false errors.
